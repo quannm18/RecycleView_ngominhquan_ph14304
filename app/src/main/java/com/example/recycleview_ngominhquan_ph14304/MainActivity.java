@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
         studentDAO.insertSTD(new Student("PH14311","Vang Thi Sang",8));
         studentDAO.insertSTD(new Student("PH14312","To Dac Lac",9));
         studentDAO.insertSTD(new Student("PH14313","Ta Van Tan",10));
+        studentDAO.insertSTD(new Student("PH14314","Ta Van Nam",11));
     }
 
     @Override
